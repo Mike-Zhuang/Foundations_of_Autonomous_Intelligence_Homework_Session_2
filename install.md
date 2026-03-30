@@ -1,8 +1,8 @@
-# 西南一楼数字孪生计划
+# Homework Session 2
 
 ## 开发环境安装说明
 
-本文档面向准备参与本项目开发的同学，建议按步骤完成 Git、Python（Miniconda）和 VS Code 的安装配置。
+建议按步骤完成 Git、Python（Miniconda）和 VS Code 的安装配置。
 
 ## Git 与 Python 环境部署教程
 
