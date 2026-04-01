@@ -13,7 +13,7 @@
 - `pics/`：图片资源目录。
   - `panorama/`：全景类图片（含 `origional_heic/` 原始 HEIC 文件）。
   - `plants/`：植物类图片（含 `origional_heic/` 原始 HEIC 文件）。
-- `project/`：YOLO 相关脚本、模型与操作文档。
+- `yolo_recognition/`：YOLO 相关脚本、模型与操作文档。
   - `yolo_process.py`：视频检测与结果输出脚本。
   - `yolo_read.py`：检测结果读取脚本。
   - `yolo26s.pt`：模型权重文件。
