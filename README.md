@@ -10,7 +10,7 @@
   - `场地选址.pdf`：场地选址资料。
   - `校园生多调查.pdf`：校园生物多样性调查资料。
   - `校园生物多样性观测记录表.xlsx`：观测记录表模板。
-- `pics/`：图片资源目录。
+- `pics/`：实地调研图片资源目录。
   - `panorama/`：全景类图片（含 `origional_heic/` 原始 HEIC 文件）。
   - `plants/`：植物类图片（含 `origional_heic/` 原始 HEIC 文件）。
 - `yolo_recognition/`：YOLO 相关脚本、模型与操作文档。
