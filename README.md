@@ -2,10 +2,24 @@
 
 ## 文件结构
 
-- `README.md`：项目说明。
+- `README.md`：项目说明与协作规范。
+- `install.md`：开发环境安装说明。
+- `git_use.md`：Git 基础使用教程。
+- `Biodiversity/`：生物多样性相关资料。
+  - `Birdnet声纹识别.md`：BirdNET 声纹识别资源下载说明。
+  - `场地选址.pdf`：场地选址资料。
+  - `校园生多调查.pdf`：校园生物多样性调查资料。
+  - `校园生物多样性观测记录表.xlsx`：观测记录表模板。
 - `pics/`：图片资源目录。
-  - `panorama/`：全景类图片。
-  - `plants/`：植物类图片。
+  - `panorama/`：全景类图片（含 `origional_heic/` 原始 HEIC 文件）。
+  - `plants/`：植物类图片（含 `origional_heic/` 原始 HEIC 文件）。
+- `project/`：YOLO 相关脚本、模型与操作文档。
+  - `yolo_process.py`：视频检测与结果输出脚本。
+  - `yolo_read.py`：检测结果读取脚本。
+  - `yolo26s.pt`：模型权重文件。
+  - `YOLO人车交通识别操作说明.md`：操作文档。
+- `doc_images/`：文档配图资源目录（含 README、install、git_use 与 YOLO 手册图片）。
+- `LICENSE`：许可条款。
 
 ## 图片说明
 
